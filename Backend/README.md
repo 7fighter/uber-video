@@ -113,7 +113,7 @@ Requires a valid JWT token in the Authorization header or cookie:
 Registers a new captain by creating a captain account with the provided information.
 
 ### HTTP Method
-
++
 `POST`
 
 ### Request Body
