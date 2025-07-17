@@ -44,9 +44,17 @@ app.use("/users", userRoutes);
 the line that is like:
 1. ```cmd
  /uber/backend/folde.....
-```
+    ```
 2. under this line we will get the line bcz of which we will be facing the error and 
 3. and under that it is written error: .....
 
 from firsrt point we are getting the exact file addres where error is and through second point  we are getting the line which caused error.3rd point is the deatil of error  
 
+## for runnig the app
+```cmd
+<!-- first install the nodemon -->
+npx nodemon
+
+<!-- or  -->
+node server.js
+```
